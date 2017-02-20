@@ -15,6 +15,7 @@
 		743C69551E5ACD23006FC24E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 743C69531E5ACD23006FC24E /* LaunchScreen.storyboard */; };
 		743C69601E5ACD23006FC24E /* _______Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 743C695F1E5ACD23006FC24E /* _______Tests.m */; };
 		743C696B1E5ACD23006FC24E /* _______UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 743C696A1E5ACD23006FC24E /* _______UITests.m */; };
+		743C69791E5ACE00006FC24E /* head.png in Resources */ = {isa = PBXBuildFile; fileRef = 743C69781E5ACE00006FC24E /* head.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		743C69661E5ACD23006FC24E /* 更换头像并保存UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "更换头像并保存UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		743C696A1E5ACD23006FC24E /* _______UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "_______UITests.m"; sourceTree = "<group>"; };
 		743C696C1E5ACD23006FC24E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		743C69781E5ACE00006FC24E /* head.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = head.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 		743C69441E5ACD23006FC24E /* 更换头像并保存 */ = {
 			isa = PBXGroup;
 			children = (
+				743C69781E5ACE00006FC24E /* head.png */,
 				743C69481E5ACD23006FC24E /* AppDelegate.h */,
 				743C69491E5ACD23006FC24E /* AppDelegate.m */,
 				743C694B1E5ACD23006FC24E /* ViewController.h */,
@@ -244,6 +247,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				743C69551E5ACD23006FC24E /* LaunchScreen.storyboard in Resources */,
+				743C69791E5ACE00006FC24E /* head.png in Resources */,
 				743C69521E5ACD23006FC24E /* Assets.xcassets in Resources */,
 				743C69501E5ACD23006FC24E /* Main.storyboard in Resources */,
 			);
